@@ -1,6 +1,6 @@
 # strings
 
-needle = "HA"
+needle = "lo"
 
 haystack = "Hello World"
 
