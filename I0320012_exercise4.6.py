@@ -1,5 +1,4 @@
 # strings
-
 needle = "lo"
 
 haystack = "Hello World"
