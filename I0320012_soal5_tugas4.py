@@ -1,4 +1,4 @@
-s = "timothy akan pergi"
+s = "kedokteran itu berat"
 
 # Panjangnya harusnya 20
 print("panjang dari s = %d" % len(s))
